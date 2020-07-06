@@ -5,6 +5,7 @@ Things to doooooo:
 * npm init -y
 * Change the test script from "no test specified" to "jest"
 * npm i jest --save-dev
+* [jest documentation](https://jestjs.io/docs/en/expect)
 
 ```javascript
 /*
@@ -21,7 +22,7 @@ Things to doooooo:
 
     To automate things... to make sure things work the way they're supposed to.
 
-    Unit test - function, variable, array, method, module... or anyhting that stores a value... it can be tested... 
+    Unit test - function, variable, array, method, module... or anything that stores a value... it can be tested... 
 
     Integration testing - unit testing being brought together...
 
