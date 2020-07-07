@@ -2,7 +2,7 @@
 // index.js
 
 // const { TestScheduler } = require("jest");
-const index = require('../index');
+// const index = require('../index');
 
 // test driven development - you build your application around your tests
 // you write your tests first and then the code follows
