@@ -1,32 +1,21 @@
 # Testing
 
-Things to doooooo:
+0. Our initial project setup
 
 * npm init -y
 * Change the test script from "no test specified" to "jest"
 * npm i jest --save-dev
-* [jest documentation](https://jestjs.io/docs/en/expect)
+* [jest documentation](https://jestjs.io/docs/en/expect): have this open to help you!
 
-```javascript
-/*
-    Why do we test?
+The folder structure after setup:
 
-    To make sure that the user doesn't input something that we don't expect...
-    26/07/1966
-    26.07.1966
-    26th July 1966
-    Seventh of the Twenty-Sixth, 1966??
-    260766
-    26/07/66
-    "Name"
+project
+│   index.js
+│   
+└───tests
+│      index.test.js
+│   
+│   package.json
 
-    To automate things... to make sure things work the way they're supposed to.
 
-    Unit test - function, variable, array, method, module... or anything that stores a value... it can be tested... 
 
-    Integration testing - unit testing being brought together...
-
-    Functional tests - how the user interacts with the application... and how the app should behave
-
-*/
-```
