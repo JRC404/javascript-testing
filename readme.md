@@ -8,7 +8,7 @@
 * [jest documentation](https://jestjs.io/docs/en/expect): have this open to help you!
 
 The folder structure after setup:
-
+```
 project
 │   index.js
 │   
@@ -16,6 +16,6 @@ project
 │      index.test.js
 │   
 │   package.json
-
+```
 
 
