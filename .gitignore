@@ -1,2 +1,3 @@
 /node_modules
+/live-demo/node_modules
 .DS_Store
